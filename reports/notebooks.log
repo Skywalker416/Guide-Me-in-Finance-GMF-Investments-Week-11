@@ -1,0 +1,376 @@
+2025-03-02 22:41:25,875 - logger_setup - ERROR - Data file for symbol 'TSLA' not found. Run `get_data()` first.
+2025-03-02 22:44:43,476 - logger_setup - ERROR - Data format issue for T: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:44:43,478 - logger_setup - ERROR - Data format issue for S: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:44:43,480 - logger_setup - ERROR - Data format issue for L: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:44:43,482 - logger_setup - ERROR - Data format issue for A: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,177 - logger_setup - ERROR - Data format issue for T: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,179 - logger_setup - ERROR - Data format issue for S: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,181 - logger_setup - ERROR - Data format issue for L: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,183 - logger_setup - ERROR - Data format issue for A: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,184 - logger_setup - ERROR - Data format issue for B: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,185 - logger_setup - ERROR - Data format issue for N: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,186 - logger_setup - ERROR - Data format issue for D: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,188 - logger_setup - ERROR - Data format issue for S: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,189 - logger_setup - ERROR - Data format issue for P: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:24,189 - logger_setup - ERROR - Data format issue for Y: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:45:32,350 - logger_setup - ERROR - Data file for symbol 'TSLA' not found. Run `get_data()` first.
+2025-03-02 22:45:58,371 - logger_setup - ERROR - Data file for symbol '{}' not found. Run `get_data()` first.
+2025-03-02 22:48:31,052 - logger_setup - ERROR - Data format issue for T: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,054 - logger_setup - ERROR - Data format issue for S: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,055 - logger_setup - ERROR - Data format issue for L: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,060 - logger_setup - ERROR - Data format issue for A: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,063 - logger_setup - ERROR - Data format issue for B: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,065 - logger_setup - ERROR - Data format issue for N: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,066 - logger_setup - ERROR - Data format issue for D: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,067 - logger_setup - ERROR - Data format issue for S: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,069 - logger_setup - ERROR - Data format issue for P: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:48:31,070 - logger_setup - ERROR - Data format issue for Y: Unknown datetime string format, unable to parse: start_date=jan-1-2015, at position 0
+2025-03-02 22:49:19,132 - logger_setup - ERROR - Error plotting data for TSLA: 'dict' object has no attribute 'empty'
+2025-03-02 22:49:19,133 - logger_setup - ERROR - Error plotting data for BND: 'dict' object has no attribute 'empty'
+2025-03-02 22:49:19,134 - logger_setup - ERROR - Error plotting data for SPY: 'dict' object has no attribute 'empty'
+2025-03-02 22:50:19,535 - logger_setup - ERROR - Data file for symbol '{}' not found. Run `get_data()` first.
+2025-03-02 23:01:52,085 - logger_setup - INFO - Data inspection results:
+{'data_types': Open      float64
+High      float64
+Low       float64
+Close     float64
+Volume      int64
+dtype: object, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:02:08,216 - logger_setup - INFO - Data inspection results:
+{'data_types': Open      float64
+High      float64
+Low       float64
+Close     float64
+Volume    float64
+dtype: object, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:02:15,376 - logger_setup - INFO - Data inspection results:
+{'data_types': Open      float64
+High      float64
+Low       float64
+Close     float64
+Volume    float64
+dtype: object, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:02:30,182 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open      1.157035e+02
+High      1.182977e+02
+Low       1.129867e+02
+Close     1.156793e+02
+Volume    1.115986e+08
+dtype: float64, 'median': Open      2.841365e+01
+High      2.880585e+01
+Low       2.735000e+01
+Close     2.850565e+01
+Volume    9.233699e+07
+dtype: float64, 'std_dev': Open      1.143137e+02
+High      1.169455e+02
+Low       1.114850e+02
+Close     1.142265e+02
+Volume    7.443890e+07
+dtype: float64, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64}
+2025-03-02 23:02:57,678 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open      7.524102e+01
+High      7.534659e+01
+Low       7.512529e+01
+Close     7.523730e+01
+Volume    4.393031e+06
+dtype: float64, 'median': Open      7.333250e+01
+High      7.343290e+01
+Low       7.320830e+01
+Close     7.333100e+01
+Volume    3.950846e+06
+dtype: float64, 'std_dev': Open      4.943419e+00
+High      4.944907e+00
+Low       4.937775e+00
+Close     4.942553e+00
+Volume    2.768242e+06
+dtype: float64, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64}
+2025-03-02 23:03:05,408 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open      3.223852e+02
+High      3.241322e+02
+Low       3.204834e+02
+Close     3.224328e+02
+Volume    9.294495e+07
+dtype: float64, 'median': Open      2.855180e+02
+High      2.862475e+02
+Low       2.844430e+02
+Close     2.854940e+02
+Volume    8.044111e+07
+dtype: float64, 'std_dev': Open      1.164724e+02
+High      1.170510e+02
+Low       1.158129e+02
+Close     1.164768e+02
+Volume    5.086759e+07
+dtype: float64, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64}
+2025-03-02 23:03:32,138 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-02 23:03:33,303 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
+2025-03-02 23:03:33,339 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-02 23:03:34,259 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
+2025-03-02 23:03:34,273 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-02 23:03:34,859 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
+2025-03-02 23:03:51,474 - logger_setup - INFO - Outliers handled across all data sources.
+2025-03-02 23:04:05,199 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-02 23:04:06,146 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
+2025-03-02 23:04:06,169 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-02 23:04:06,896 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
+2025-03-02 23:04:06,917 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-02 23:04:07,726 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
+2025-03-02 23:18:44,493 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume            int64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:18:48,514 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:18:50,803 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:18:55,669 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            1.179915e+02
+High            1.206401e+02
+Low             1.152106e+02
+Close           1.179612e+02
+Volume          1.113142e+08
+Rolling_Mean    1.168871e+02
+Rolling_Std     9.706029e+00
+dtype: float64, 'median': Open            3.144000e+01
+High            3.264000e+01
+Low             2.999185e+01
+Close           3.078435e+01
+Volume          9.205712e+07
+Rolling_Mean    3.638233e+01
+Rolling_Std     3.954386e+00
+dtype: float64, 'std_dev': Open            1.167260e+02
+High            1.194159e+02
+Low             1.138183e+02
+Close           1.166245e+02
+Volume          7.422773e+07
+Rolling_Mean    1.139738e+02
+Rolling_Std     1.140573e+01
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
+2025-03-03 22:29:57,198 - logger_setup - ERROR - Data file for symbol 'TSLA' not found. Run `get_data()` first.
+2025-03-03 22:31:30,758 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume            int64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-03 22:31:31,090 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-03 22:31:31,155 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-03 22:31:31,271 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            1.179915e+02
+High            1.206401e+02
+Low             1.152106e+02
+Close           1.179612e+02
+Volume          1.113142e+08
+Rolling_Mean    1.168871e+02
+Rolling_Std     9.706029e+00
+dtype: float64, 'median': Open            3.144000e+01
+High            3.264000e+01
+Low             2.999185e+01
+Close           3.078435e+01
+Volume          9.205712e+07
+Rolling_Mean    3.638233e+01
+Rolling_Std     3.954386e+00
+dtype: float64, 'std_dev': Open            1.167260e+02
+High            1.194159e+02
+Low             1.138183e+02
+Close           1.166245e+02
+Volume          7.422773e+07
+Rolling_Mean    1.139738e+02
+Rolling_Std     1.140573e+01
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
+2025-03-03 22:31:31,340 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            7.521512e+01
+High            7.532047e+01
+Low             7.509896e+01
+Close           7.521100e+01
+Volume          4.413582e+06
+Rolling_Mean    7.525874e+01
+Rolling_Std     4.535524e-01
+dtype: float64, 'median': Open            7.331000e+01
+High            7.340805e+01
+Low             7.319410e+01
+Close           7.328880e+01
+Volume          3.981285e+06
+Rolling_Mean    7.325709e+01
+Rolling_Std     3.543069e-01
+dtype: float64, 'std_dev': Open            4.932565e+00
+High            4.934177e+00
+Low             4.927229e+00
+Close           4.931971e+00
+Volume          2.771375e+06
+Rolling_Mean    4.909523e+00
+Rolling_Std     3.107786e-01
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
+2025-03-03 22:31:31,427 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            3.245429e+02
+High            3.262957e+02
+Low             3.226285e+02
+Close           3.245887e+02
+Volume          9.260453e+07
+Rolling_Mean    3.238707e+02
+Rolling_Std     6.370660e+00
+dtype: float64, 'median': Open            2.863860e+02
+High            2.875165e+02
+Low             2.851570e+02
+Close           2.863460e+02
+Volume          8.022022e+07
+Rolling_Mean    2.869206e+02
+Rolling_Std     5.521314e+00
+dtype: float64, 'std_dev': Open            1.185129e+02
+High            1.190903e+02
+Low             1.178414e+02
+Close           1.185131e+02
+Volume          5.081934e+07
+Rolling_Mean    1.165802e+02
+Rolling_Std     4.413198e+00
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
+2025-03-03 22:31:31,520 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:32,449 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:32,483 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:33,285 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:33,315 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:34,280 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:34,437 - logger_setup - INFO - Outliers handled across all data sources.
+2025-03-03 22:31:34,562 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:35,520 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:35,563 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:36,756 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:36,798 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:38,073 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
